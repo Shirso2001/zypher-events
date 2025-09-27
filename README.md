@@ -12,7 +12,7 @@
 
 ###Team Member 3
 - **Full Name:** `Eliot Chrystal`
-- **CCID:** `ElliotDomino`
+- **CCID:** `echrysta`
 
 ###Team Member 4
 - **Full Name:** `Britney Kunchidi`
@@ -24,4 +24,4 @@
 
 ###Team Member 6
 - **Full Name:** `Tom Yang`
-- **CCID:** `yyzTom`
+- **CCID:** `yunze7`
